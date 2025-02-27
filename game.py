@@ -19,8 +19,8 @@ options = [
 #list of correct answer
 correct_answer = [3, 3, 1, 1]# paris, 12, python, pink
 #start of the game
-play_angin = "yes"
-while play_angin == "yes":
+play_again = "yes"
+while play_again == "yes":
     score = 0
     print ( "--- Welcome to the trivia game---")
     print ("Answer the following Question by entering the number corresponding to your choice.")
